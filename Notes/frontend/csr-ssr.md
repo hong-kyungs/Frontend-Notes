@@ -82,7 +82,7 @@
 7. API로부터 받아온 data를 placeholder 자리에 넣어준다. 이제 페이지는 상호작용이 가능해진다.
 
 <p align="center">
-<img src="../../images/frontend/csr_ssr_2.png" width="400">
+<img src="../../images/frontend/csr_ssr_2.png" width="600">
 </p>
 
 즉, 서버에서 처리 없이 클라이언트로 보내주기 때문에 자바스립트가 모두 다운로드 되고 실행이 끝나기 전까지 사용자는 볼수 있는게 없다.
@@ -106,7 +106,7 @@
 7. JS까지 성공적으로 컴파일 되었기 때문에 기억하고 있던 사용자 조작이 실행되고 이제 웹 페이지는 상호작용 가능해진다.
 
 <p align="center">
-<img src="../../images/frontend/csr_ssr_4.png" width="400">
+<img src="../../images/frontend/csr_ssr_4.png" width="600">
 </p>
 
 즉. 서버에서 이미 '렌더 가능한' 상태로 클라이언트에 전달되기 때문에, JS가 다운로드 되는 동안 사용자는 무언가를 보고 있을 수 있다.
