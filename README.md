@@ -15,3 +15,5 @@
 - [CSR(Client Side Rendering) vs SSR(Server Side Rendering)](./Notes/frontend/csr-ssr.md)
 
 - [Cookie 와 Session](./Notes/frontend/cookie-session.md)
+
+- [CORS(Cross-Origin Resource Sharing)](./Notes/frontend/cors.md)
