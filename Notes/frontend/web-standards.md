@@ -62,6 +62,10 @@ HTML은 웹의 구조를, CSS는 웹의 표현을 담당하도록 분리되어 �
 ### 1. DOCTYPE 선언
 
 HTML 파일 최상단에 위치하는 태그. DOCTYPE은 어떤 버전의 HTML로 작성된 문서인지 브라우저에 알려준다. `<!DOCTYPE html>`은 문서가 HTML5 버전을 지켜 작성된 문서임을 뜻한다.
+<p align="center">
+<img src="../../images/frontend/web_standards_1.png" width="600">
+</p>
+
 
 ### 2. 시멘틱 태그 사용 (Semantic tag)
 

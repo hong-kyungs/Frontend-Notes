@@ -15,3 +15,4 @@
 - [Cookie 와 Session](./Notes/frontend/cookie-session.md)
 - [CORS(Cross-Origin Resource Sharing)](./Notes/frontend/cors.md)
 - [웹 표준화(Web Standards)](./Notes/frontend/web-standards.md)
+- [Webpack 과 Babel](./Notes/frontend/webpack-babel.md)

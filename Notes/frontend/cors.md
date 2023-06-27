@@ -173,14 +173,9 @@ Access-Control-Allow-Origin : https://naver.com
 
 **참고**
 
-https://hannut91.github.io/blogs/infra/cors
-
-https://escapefromcoding.tistory.com/724
-
-[https://fomaios.tistory.com/entry/Network-CORS란-feat-보안HTTP](https://fomaios.tistory.com/entry/Network-CORS%EB%9E%80-feat-%EB%B3%B4%EC%95%88HTTP)
-
-https://hymndev.tistory.com/78
-
-[https://inpa.tistory.com/entry/WEB-📚-CORS-💯-정리-해결-방법-👏](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-CORS-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-%F0%9F%91%8F)
-
+https://hannut91.github.io/blogs/infra/cors  
+https://escapefromcoding.tistory.com/724  
+[https://fomaios.tistory.com/entry/Network-CORS란-feat-보안HTTP](https://fomaios.tistory.com/entry/Network-CORS%EB%9E%80-feat-%EB%B3%B4%EC%95%88HTTP)  
+https://hymndev.tistory.com/78  
+[https://inpa.tistory.com/entry/WEB-📚-CORS-💯-정리-해결-방법-👏](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-CORS-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-%F0%9F%91%8F)  
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
