@@ -18,9 +18,9 @@
 - [웹 표준화(Web Standards)](./Notes/frontend/web-standards.md)
 - [Webpack, Babel, Polyfill](./Notes/frontend/webpack-babel.md)
 
-
 ## 💻 JavaScript
 
 ---
 
 - [JavaScript Data Type](./Notes/javascript/data-type.md)
+- [변수, 스코프, 호이스팅](./Notes/javascript/variable-scope-hoisting.md)

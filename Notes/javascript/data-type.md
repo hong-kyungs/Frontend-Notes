@@ -92,6 +92,6 @@ const alsoHuge = BigInt(9007199254740991)
 
 참고
 
-https://ko.javascript.info/types
-https://developer.mozilla.org/ko/docs/Glossary/Primitive
+https://ko.javascript.info/types  
+https://developer.mozilla.org/ko/docs/Glossary/Primitive  
 [https://velog.io/@jenny87879/JavaScript-변수-데이터-타입의-종류](https://velog.io/@jenny87879/JavaScript-%EB%B3%80%EC%88%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EC%9D%98-%EC%A2%85%EB%A5%98)
