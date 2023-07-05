@@ -23,4 +23,5 @@
 ---
 
 - [JavaScript Data Type](./Notes/javascript/data-type.md)
-- [변수, 스코프, 호이스팅](./Notes/javascript/variable-scope-hoisting.md)
+- [변수, 스코프, 호이스팅](./Notes/javascript/variable-scope-hoisting.md)  
+- [함수선언, 함수표현식, 화살표함수](./Notes/javascript/function.md)  
