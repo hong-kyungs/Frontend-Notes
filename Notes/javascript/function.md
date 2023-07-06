@@ -73,7 +73,7 @@ const add = function (a, b) {
 const add = (a, b) => a + b
 ```
 
-1. 여러줄인 경우 block을 사용하고 return 값을 꼭 넣어준다.
+2. 여러줄인 경우 block을 사용하고 return 값을 꼭 넣어준다.
 
 ```jsx
 let add = (a, b) => {
