@@ -158,6 +158,12 @@ say를 호출한 후 위에서부터 차례대로(8)~(10)을 실행하는데, **
 <img src="../../images/javascript/execution-context-3.png" width="400">
 </p>
 
+### 개발자도구 - 디버거 시스템으로 실행컨텍스트 파악하기
+
+<p align="center">
+<img src="../../images/javascript/execution-context-4.png" width="600">
+</p>
+
 참조  
 [생활코딩-실행컨텍스트](https://www.youtube.com/watch?v=QtOF0uMBy7k&t=717s)  
 [https://inpa.tistory.com/entry/JS-📚-실행-컨텍스트#실행\_컨텍스트](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8#%EC%8B%A4%ED%96%89_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)  
