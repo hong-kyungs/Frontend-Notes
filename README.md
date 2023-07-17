@@ -26,5 +26,6 @@
 - [변수, 스코프, 호이스팅](./Notes/javascript/variable-scope-hoisting.md)
 - [함수선언, 함수표현식, 화살표함수](./Notes/javascript/function.md)
 - [화살표함수(arrow function), 일반 함수와의 차이](./Notes/javascript/arrow-fucntion.md)
-- [실행 컨텍스트(Execution Context)](./Notes/javascript/execution-context.md)  
-- [비동기처리(Asynchronous) - callback, promise, async, await](./Notes/javascript/asynchronous.md.md)
+- [실행 컨텍스트(Execution Context)](./Notes/javascript/execution-context.md)
+- [비동기처리(Asynchronous) - callback, promise, async, await](./Notes/javascript/asynchronous.md)
+- [클로저(closure)](./Notes/javascript/closure.md)
