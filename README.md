@@ -29,3 +29,4 @@
 - [실행 컨텍스트(Execution Context)](./Notes/javascript/execution-context.md)
 - [비동기처리(Asynchronous) - callback, promise, async, await](./Notes/javascript/asynchronous.md)
 - [클로저(closure)](./Notes/javascript/closure.md)
+- [프로토타입(prototype)](./Notes/javascript/prototype.md)
