@@ -32,3 +32,4 @@
 - [프로토타입(prototype)](./Notes/javascript/prototype.md)
 - [this](./Notes/javascript/this.md)
 - [이벤트 캡처링, 버블링 그리고 위임](./Notes/javascript/event.md)
+- [객체와 불변성(immutable)](./Notes/javascript/Immutable.md)
