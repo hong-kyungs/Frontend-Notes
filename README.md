@@ -31,3 +31,4 @@
 - [클로저(closure)](./Notes/javascript/closure.md)
 - [프로토타입(prototype)](./Notes/javascript/prototype.md)
 - [this](./Notes/javascript/this.md)
+- [이벤트 캡처링, 버블링 그리고 위임](./Notes/javascript/event.md)
