@@ -6,7 +6,7 @@ Javascript의 원시 타입(primitive data type)은 변경 불가능한 값(immu
 
 - Boolean
 - null
-- undefined
+- undefinedn
 - Number
 - String
 - Symbol (New in ECMAScript 6)
