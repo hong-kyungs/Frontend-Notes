@@ -4,9 +4,9 @@
 
 ---
 
-- [Frontend](#-💻-frontend)
-- [JavaScript](#-💻-javascript)
-- [React](#-💻-react)
+- [Frontend](#💻-frontend)
+- [JavaScript](#💻-javascript)
+- [React](#💻-react)
 
 ## 💻 Frontend
 
