@@ -39,4 +39,5 @@
 ## 💻 React
 ---
 
-- [React란](./Notes/react/react.md)
+- [React란](./Notes/react/react.md)  
+- [Virtual DOM](./Notes/react/virtual-dom.md)  
