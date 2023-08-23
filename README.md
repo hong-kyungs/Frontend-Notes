@@ -41,3 +41,4 @@
 
 - [React란](./Notes/react/react.md)  
 - [Virtual DOM](./Notes/react/virtual-dom.md)  
+- [Component](./Notes/react/component.md)  
