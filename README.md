@@ -44,4 +44,4 @@
 - [Component](./Notes/react/component.md)  
 - [JSX](./Notes/react/jsx.md)  
 - [props에 key를 사용하는 이유](./Notes/react/props-key.md)  
-
+- [PureComponent & memo](./Notes/react/purecomponent-memo.md)
