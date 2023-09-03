@@ -34,16 +34,18 @@
 - [프로토타입(prototype)](./Notes/javascript/prototype.md)
 - [this](./Notes/javascript/this.md)
 - [이벤트 캡처링, 버블링 그리고 위임](./Notes/javascript/event.md)
-- [객체와 불변성(immutable)](./Notes/javascript/Immutable.md)  
+- [객체와 불변성(immutable)](./Notes/javascript/Immutable.md)
 
 ## 💻 React
+
 ---
 
-- [React란](./Notes/react/react.md)  
-- [Virtual DOM](./Notes/react/virtual-dom.md)  
-- [Component](./Notes/react/component.md)  
-- [JSX](./Notes/react/jsx.md)  
-- [props에 key를 사용하는 이유](./Notes/react/props-key.md)  
+- [React란](./Notes/react/react.md)
+- [Virtual DOM](./Notes/react/virtual-dom.md)
+- [Component](./Notes/react/component.md)
+- [JSX](./Notes/react/jsx.md)
+- [props에 key를 사용하는 이유](./Notes/react/props-key.md)
 - [PureComponent & memo](./Notes/react/purecomponent-memo.md)
-- [useState와 useRef의 차이](./Notes/react/usestate-useref.md)  
-- [클래스 컴포넌트 라이프사이클(생명주기)](./Notes/react/class-lifecycle.md)  
+- [useState와 useRef의 차이](./Notes/react/usestate-useref.md)
+- [클래스 컴포넌트 라이프사이클(생명주기)](./Notes/react/class-lifecycle.md)
+- [useMemo & useCallback](./Notes/react/usememo-usecallback.md)
