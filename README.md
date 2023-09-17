@@ -50,3 +50,4 @@
 - [클래스 컴포넌트 라이프사이클(생명주기)](./Notes/react/class-lifecycle.md)
 - [useMemo & useCallback](./Notes/react/usememo-usecallback.md)
 - [Context API](./Notes/react/context-api.md)
+- [setState & useState 사용하는 이유](./Notes/react/setState.md)
