@@ -53,11 +53,9 @@
 - [setState & useState 사용하는 이유](./Notes/react/setState.md)
 - [useEffect와 useLayoutEffect의 차이](./Notes/react/uselayouteffect.md)
 
-
 ## 💻 Redux
 
 ---
 
-- [redux와 context API 차이](./Notes/redux/redux-contextApi.md)  
-
-
+- [redux와 context API 차이](./Notes/redux/redux-contextApi.md)
+- [redux의 장단점](./Notes/redux/pros-cons.md)
