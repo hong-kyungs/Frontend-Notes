@@ -2,15 +2,13 @@
 
 ## 목차
 
----
-
 - [Frontend](#💻-frontend)
+- [Css](#💻-css)
 - [JavaScript](#💻-javascript)
 - [React](#💻-react)
+- [Redux](#💻-redux)
 
 ## 💻 Frontend
-
----
 
 - [브라우저 렌더링 과정 설명](./Notes/frontend/browser-rendering.md)
 - [CSR(Client Side Rendering) vs SSR(Server Side Rendering)](./Notes/frontend/csr-ssr.md)
@@ -20,9 +18,11 @@
 - [Webpack, Babel, Polyfill](./Notes/frontend/webpack-babel.md)
 - [성능최적화(Performance Optimization)](./Notes/frontend/performance-optimization.md)
 
-## 💻 JavaScript
+## 💻 Css
 
----
+- [박스 모델(box model)](./Notes/css/box-model.md)
+
+## 💻 JavaScript
 
 - [JavaScript Data Type](./Notes/javascript/data-type.md)
 - [변수, 스코프, 호이스팅](./Notes/javascript/variable-scope-hoisting.md)
@@ -38,8 +38,6 @@
 
 ## 💻 React
 
----
-
 - [React란](./Notes/react/react.md)
 - [Virtual DOM](./Notes/react/virtual-dom.md)
 - [Component](./Notes/react/component.md)
@@ -54,8 +52,6 @@
 - [useEffect와 useLayoutEffect의 차이](./Notes/react/uselayouteffect.md)
 
 ## 💻 Redux
-
----
 
 - [redux와 context API 차이](./Notes/redux/redux-contextApi.md)
 - [redux의 장단점](./Notes/redux/pros-cons.md)
