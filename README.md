@@ -2,11 +2,11 @@
 
 ## 목차
 
-- [Frontend](#💻-frontend)
-- [Css](#💻-css)
-- [JavaScript](#💻-javascript)
-- [React](#💻-react)
-- [Redux](#💻-redux)
+- [Frontend](#💻-Frontend)
+- [Css](#💻-Css)
+- [JavaScript](#💻-Javascript)
+- [React](#💻-React)
+- [Redux](#💻-Redux)
 
 ## 💻 Frontend
 
