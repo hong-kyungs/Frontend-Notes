@@ -2,11 +2,11 @@
 
 ## 목차
 
-- [Frontend](#💻-Frontend)
-- [Css](#💻-Css)
-- [JavaScript](#💻-Javascript)
-- [React](#💻-React)
-- [Redux](#💻-Redux)
+- [Frontend](#💻-frontend)
+- [CSS](#💻-css)
+- [JavaScript](#💻-javascript)
+- [React](#💻-react)
+- [Redux](#💻-redux)
 
 ## 💻 Frontend
 
@@ -18,7 +18,7 @@
 - [Webpack, Babel, Polyfill](./Notes/frontend/webpack-babel.md)
 - [성능최적화(Performance Optimization)](./Notes/frontend/performance-optimization.md)
 
-## 💻 Css
+## 💻 CSS
 
 - [박스 모델(box model)](./Notes/css/box-model.md)
 
