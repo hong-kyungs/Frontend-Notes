@@ -23,6 +23,7 @@
 - [박스 모델(box model)](./Notes/css/box-model.md)
 - [display](./Notes/css/display.md)
 - [position](./Notes/css/position.md)
+- [float](./Notes/css/float.md)
 
 ## 💻 JavaScript
 
