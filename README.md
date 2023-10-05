@@ -25,6 +25,7 @@
 - [position](./Notes/css/position.md)
 - [float](./Notes/css/float.md)
 - [CSS preprcessor(CSS 전처리기)](./Notes/css/css-preprocessor.md)
+- [flex](./Notes/css/flex.md)
 
 ## 💻 JavaScript
 

@@ -18,7 +18,6 @@
 <img src="../../images/css/display-1.png" width="600">
 </p>
 
-
 ## 2. inline
 
 - 새로운 라인에서 시작하지 않으며 문장의 중간에 들어갈 수 있다. 즉, 줄을 바꾸지 않고 다른 요소와 함께 한 행에 위치한다.
@@ -28,9 +27,9 @@
 - `span` , `a` , `strong` , `img` , `br` , `input` , `select` , `textarea` , `button`
 
 <p align="center">
-<img src="../../images/css/display-2.png" width="4400">
+<img src="../../images/css/display-2.png" width="400">
 </p>
-    
+
 
 ## 3. inline-block
 
@@ -58,12 +57,12 @@ visibility 속성을 hidden으로 설정한 것과 달리 영역도 차지하지
 ## 6. grid
 
 - Flex와는 다르게 2차원으로 배치하는 방식으로 column과 row의 비율이나 크기를 지정한다.
-grid-template-rows는 가로에 배치할 셀들의 비율이나 크기를 지정하는 속성이고
-grid-template-columns는 세로로 배치할 셀들의 비율이나 크기를 나타낸다.
+  grid-template-rows는 가로에 배치할 셀들의 비율이나 크기를 지정하는 속성이고
+  grid-template-columns는 세로로 배치할 셀들의 비율이나 크기를 나타낸다.
 - grid-template-rows나 grid-template-columns에 입력할 수 있는 단위는 px, fr이 있는데 fr은 fraction으로 숫자 비율대로 트랙의 크기를 나누는 것이다.
-즉 grid-template-columns : 1fr 1fr 1fr 은 1:1:1로 나누는 것이고
-grid-template-columns : 100px 3fr 1fr 은 첫번째 셀은 100px, 두번째 셀과 세번째 셀은 남은 부분을 3:1로 나누어 차지한다.
+  즉 grid-template-columns : 1fr 1fr 1fr 은 1:1:1로 나누는 것이고
+  grid-template-columns : 100px 3fr 1fr 은 첫번째 셀은 100px, 두번째 셀과 세번째 셀은 남은 부분을 3:1로 나누어 차지한다.
 
 참조  
-https://poiemaweb.com/css3-display. 
+https://poiemaweb.com/css3-display.
 [https://velog.io/@sukong/CSS-display-속성](https://velog.io/@sukong/CSS-display-%EC%86%8D%EC%84%B1)
