@@ -58,6 +58,94 @@ Flexbox의 장점을 정리해 보면 아래와 같다.
 
 비교적 최신 브라우저가 아니면 벤더 프리픽스를 사용하여야 하고 IE계열은 IE8,9의 경우 지원하지 않고 IE10,11의 경우도 일부 지원하므로 주의가 필요하다. IE계열에서 Flexbox를 사용하기 위해서는 flexibility.js를 사용하면 편리하다.
 
+## 2. Usage
+
+Flexbox 레이아웃은 **flex item**이라 불리는 복수의 자식 요소와 이들을 내포하는 **flex-container** 부모 요소로 구성된다.
+
+<p align="center">
+<img src="../../images/css/flex-03.jpg" width="800">
+</p>
+
+flexbox를 사용하기 위해서 HTML 부모 요소의 display 속성에 flex를 지정한다.
+
+```css
+.flex-container {
+  display: flex;
+}
+```
+
+부모 요소가 inline 요소인 경우 inline-flex을 지정한다.
+
+```css
+.flex-container {
+  display: inline-flex;
+}
+```
+
+flex 또는 inline-flex는 부모 요소에 반드시 지정해야하는 유일한 속성이며 자식 요소는 자동적으로 flex item이 된다.
+
+## 3. Flexbox container 속성
+
+### **3.1 flex-direction**
+
+flex-direction 속성은 flex 컨테이너의 주축(main axis) 방향을 설정한다.
+
+🎈 **flex-direction: row;**
+
+좌에서 우로(ltr) 수평 배치된다. flex-direction 속성의 기본값이다.
+
+```css
+.flex-container {
+  flex-direction: row;
+}
+```
+
+<p align="center">
+<img src="../../images/css/flex-04.jpeg" width="600">
+</p>
+
+🎈 **flex-direction: row-reverse;**
+
+우에서 좌로(rtl) 수평 배치된다.
+
+```css
+.flex-container {
+  flex-direction: row-reverse;
+}
+```
+
+<p align="center">
+<img src="../../images/css/flex-05.jpeg" width="600">
+</p>
+
+🎈 **flex-direction: column;**
+
+위에서 아래로 수직 배치된다.
+
+```css
+.flex-container {
+  flex-direction: column;
+}
+```
+
+<p align="center">
+<img src="../../images/css/flex-06.jpeg" width="600">
+</p>
+
+🎈 **flex-direction: column-reverse;**
+
+아래에서 위로 수직 배치된다.
+
+```css
+.flex-container {
+  flex-direction: column-reverse;
+}
+```
+
+<p align="center">
+<img src="../../images/css/flex-07.jpeg" width="600">
+</p>
+
 참조  
 https://poiemaweb.com/css3-flexbox  
 [https://devowen.com/272#flex를 사용하는 이유가 무엇인가요%3F (D사 화상면접)-1](<https://devowen.com/272#flex%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F%20(D%EC%82%AC%20%ED%99%94%EC%83%81%EB%A9%B4%EC%A0%91)-1>)
