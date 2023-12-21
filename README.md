@@ -25,8 +25,8 @@
 - [position](./Notes/css/position.md)
 - [float](./Notes/css/float.md)
 - [CSS preprcessor(CSS 전처리기)](./Notes/css/css-preprocessor.md)
-- [flex](./Notes/css/flex.md)  
-- [CSS-in-JS](./Notes/css/css-in-js.md)  
+- [flex](./Notes/css/flex.md)
+- [CSS-in-JS](./Notes/css/css-in-js.md)
 
 ## 💻 JavaScript
 
@@ -61,3 +61,7 @@
 
 - [redux와 context API 차이](./Notes/redux/redux-contextApi.md)
 - [redux의 장단점](./Notes/redux/pros-cons.md)
+
+## 💻 CS(Computer Science)
+
+- [프로세스와 스레드](./Notes/CS/process-thread.md)
