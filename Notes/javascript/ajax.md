@@ -2,7 +2,7 @@
 
 ## 📌 AJAX란?
 
-Ajax란 Asynchronous JavaScript and XML의 약자로, Ajax는 빠르게 동작하는 동적인 웹 페이지를 만들기 위한 개발 기법의 하나이다.
+Ajax란 Asynchronous JavaScript and XML의 약자로, 자바스크립트를 이용해서 비동기적(Asynchronous)으로 서버와 브라우저가 데이터를 교환할 수 있는 통신 방식을 의미한다.
 
 Ajax는 **웹 페이지 전체를 다시 로딩하지 않고도, 웹 페이지의 일부분만을 갱신할 수 있다.** 즉 Ajax를 이용하면 **백그라운드 영역에서 서버와 통신하여, 그 결과를 웹 페이지의 일부분에만 표시할 수 있다.**
 
@@ -13,7 +13,7 @@ Ajax는 **웹 페이지 전체를 다시 로딩하지 않고도, 웹 페이지�
 - HTML
 - 텍스트 파일 등
 
-## 📌*AJAX 사용 사례
+## 📌\*AJAX 사용 사례
 
 AJAX를 사용하여 웹 애플리케이션에서 다양한 기능을 만들 수 있습니다.
 
@@ -68,16 +68,16 @@ Ajax를 이용하면 여러 장점을 가지지만, Ajax로도 다음과 같은 
 - 장점은 우리가 사용하는 대부분의 브라우저에 지원되며, XHR 객체의 다양한 속성을 이용할 수 있다.
 
 ```jsx
-const xhr = new XMLHttpRequest();
-xhr.open('GET', '/api/data');
-xhr.onloa = function(){
-	if(xhr.status === 200){
-		console.log(xhr.responseText);
-	} else {
-		console.log('요청 실패. 상태 코드 : ' + xhr.status);
-	}
-};
-xhr.send();
+const xhr = new XMLHttpRequest()
+xhr.open('GET', '/api/data')
+xhr.onloa = function () {
+  if (xhr.status === 200) {
+    console.log(xhr.responseText)
+  } else {
+    console.log('요청 실패. 상태 코드 : ' + xhr.status)
+  }
+}
+xhr.send()
 ```
 
 ### 2. fetch
@@ -91,17 +91,17 @@ xhr.send();
 
 ```jsx
 fetch('/api/data')
-	.then(response => {
-		if(!response.ok) {
-			throw new Error('응답 실패');
-		}
-	})
-	.then(date => {
-		console.log(data);
-	})
-	.catch(error => {
-		console.log('에러 발생 :', error);
-	})
+  .then((response) => {
+    if (!response.ok) {
+      throw new Error('응답 실패')
+    }
+  })
+  .then((date) => {
+    console.log(data)
+  })
+  .catch((error) => {
+    console.log('에러 발생 :', error)
+  })
 ```
 
 ### 3. axios
@@ -113,13 +113,14 @@ fetch('/api/data')
 - 사용하려면 라이브러리 설치가 필요하다.
 
 ```jsx
-axios.get('/api/data')
-	.then(response => {
-		console.log(response.data);
-	})
-	.catch(error => {
-		console.log(error);
-	})
+axios
+  .get('/api/data')
+  .then((response) => {
+    console.log(response.data)
+  })
+  .catch((error) => {
+    console.log(error)
+  })
 ```
 
 참조  
