@@ -34,6 +34,7 @@
 
 - [JavaScript Data Type](./Notes/javascript/data-type.md)
 - [변수, 스코프, 호이스팅](./Notes/javascript/variable-scope-hoisting.md)
+- [var, let, const](./Notes/javascript/var-let-const.md)
 - [함수선언, 함수표현식, 화살표함수](./Notes/javascript/function.md)
 - [화살표함수(arrow function), 일반 함수와의 차이](./Notes/javascript/arrow-fucntion.md)
 - [실행 컨텍스트(Execution Context)](./Notes/javascript/execution-context.md)
